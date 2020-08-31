@@ -4,7 +4,9 @@ A good friend of mine was having a tough time and was seeking validation from pe
 
 I also thought it would be nice when he opens and see a bunch of new notifications on a link he didn't think anyone might react with.
 
-I used automation testing tools called Capybara with selenium driver to find his account, seed the quotes from a text file. Check ask.fm's terms and conditions and waits for a few seconds through submitting to prevent any non-human alert.
+## Technology used:
+
+I used automation testing tools called Capybara with selenium driver to find his account, seed the quotes from a text file. Check ask.fm's terms and conditions and waits for a few seconds through submitting to prevent any non-human alert. which is very basic application for the rspec e2e testing but in a different form
 
 Video for how it looks from my account -of course-: 
 
